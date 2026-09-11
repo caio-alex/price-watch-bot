@@ -1,0 +1,20 @@
+# Variáveis de ambiente (contém tokens/segredos)
+.env
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Estado do monitor e arquivos de debug
+state.json
+monitor.log
+debug_page.html
+debug_screenshot.png
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
